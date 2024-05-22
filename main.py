@@ -16,4 +16,6 @@ print(f'5! = {fact}')
 f = 44 #esto va a generar un cnflicto, si la modifico aqui y en la rama master, debido a que ha sido modificada en ambas partes
 print(f + f03.var1)
 
-print('Este codigo se ha modificado, en el repositorio remoto')
+print('Este es codigo nuevo')
+print('Cuando se crea un repositorio remoto, este puede clonarse en otro equipo, si luego el original es modificado, cuando se conecte la otra maquina')
+print('Con fetch se puede extraer el cambio nuevo y con pull se añade a mi PC')
